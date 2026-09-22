@@ -4,5 +4,5 @@
 /**
  * 
  */
-module structre {
+module algo {
 }
